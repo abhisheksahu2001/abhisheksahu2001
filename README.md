@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek sahu</h1>
-<h3 align="center">!! disclaimer not a professional coder </h3>
+<h3 align="center">Aspire to become a better coder</h3>
 <p align="center" ><img alt="funny gif" width="300" src="https://github.com/abhisheksahu2001/abhisheksahu2001/blob/main/7Sv6.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksahu2001&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksahu2001" /> </p>
