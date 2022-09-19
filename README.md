@@ -26,5 +26,3 @@
 
 <p><img align="left" width="400" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksahu2001&theme=prussian&layout=compact&count_private=true" alt="abhishek sahu" /></p>
 
-<p>&nbsp;<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=abhisheksahu2001&theme=prussian&show_icons=true&count_private=true" alt="abhishek sahu" /></p>
-
