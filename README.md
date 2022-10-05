@@ -25,5 +25,5 @@
 
 [![Abhishek wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhisheksahu2001)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" width="400" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksahu2001&theme=prussian&layout=compact&count_private=true" alt="abhishek sahu" /></p>
+<!-- <p><img align="left" width="400" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksahu2001&theme=prussian&layout=compact&count_private=true" alt="abhishek sahu" /></p> -->
 
